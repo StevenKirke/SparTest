@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "promoCode.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
